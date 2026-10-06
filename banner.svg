@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420">
+<defs>
+  <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#ff6ec7"><animate attributeName="stop-color" values="#ff6ec7;#a855f7;#ff6ec7" dur="4s" repeatCount="indefinite"/></stop><stop offset="100%" stop-color="#a855f7"><animate attributeName="stop-color" values="#a855f7;#ff6ec7;#a855f7" dur="4s" repeatCount="indefinite"/></stop></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1280" height="420" rx="12" fill="#0d1117"/>
+<g stroke="#ffffff08" stroke-width="1"><path d="M0 70 H1280 M0 140 H1280 M0 210 H1280 M0 280 H1280 M0 350 H1280 M100 V0 V420 M300 V0 V420 M500 V0 V420 M700 V0 V420 M900 V0 V420 M1100 V0 V420"/></g>
+<text x="32" y="36" font-family="monospace" font-size="15" fill="#ff9ad5">user@github:~$ cat README.md</text>
+<text x="32" y="135" font-family="Verdana" font-size="72" font-weight="800" fill="url(#g)" filter="url(#glow)">Milkah Michira</text>
+<text x="34" y="178" font-family="monospace" font-size="18" fill="#c9a6ff">Full-Stack • Data • IBM Simulation • 100% Meridian Pivot</text>
+<g font-family="monospace" font-size="13" font-weight="700">
+  <rect x="32" y="195" width="140" height="32" rx="16" fill="#1a2332" stroke="#8b5cf680"/><circle cx="52" cy="211" r="7" fill="#3178c6"/><text x="68" y="216" fill="#93b4ff">TypeScript</text>
+  <rect x="182" y="195" width="120" height="32" rx="16" fill="#122a1a" stroke="#8b5cf680"/><circle cx="202" cy="211" r="7" fill="#339933"/><text x="218" y="216" fill="#86efac">Node.js</text>
+  <rect x="312" y="195" width="122" height="32" rx="16" fill="#1e1630" stroke="#8b5cf680"/><circle cx="332" cy="211" r="7" fill="#7c3aed"/><text x="348" y="216" fill="#c4b5fd">Temporal</text>
+  <rect x="444" y="195" width="108" height="32" rx="16" fill="#1a1a1a" stroke="#8b5cf680"/><text x="460" y="216" fill="#d1d5db">▲ Vercel</text>
+  <rect x="562" y="195" width="118" height="32" rx="16" fill="#2a1e10" stroke="#8b5cf680"/><circle cx="582" cy="211" r="7" fill="#ff8a00"/><text x="598" y="216" fill="#fed7aa">Firebase</text>
+  <rect x="690" y="195" width="102" height="32" rx="16" fill="#1a2332" stroke="#8b5cf680"/><text x="706" y="216" fill="#93b4ff">■ Python</text>
+</g>
+<text x="32" y="260" font-family="monospace" font-size="14" fill="#9ca3af">Progress:</text>
+<rect x="130" y="248" width="900" height="10" rx="5" fill="#21262d"/>
+<rect x="130" y="248" width="0" height="10" rx="5" fill="url(#g)"><animate attributeName="width" values="0;900" dur="1.5s" fill="freeze"/></rect>
+<text x="1045" y="258" font-family="monospace" font-size="18" font-weight="800" fill="#ff6ec7" filter="url(#glow)">100%</text>
+<text x="32" y="295" font-family="monospace" font-size="13" fill="#a78bfa" font-style="italic">"Building systems that survive real-world pivots"</text>
+<text x="32" y="335" font-family="monospace" font-size="16" font-weight="800" fill="#ff8bd4" filter="url(#glow)">KEEP CODING KEEP GROWING ✨<animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/></text>
+<rect x="0" y="0" width="1280" height="2" fill="#ff6ec7" opacity="0.5"><animate attributeName="y" values="0;418;0" dur="4s" repeatCount="indefinite"/></rect>
+</svg>

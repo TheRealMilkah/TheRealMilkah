@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=2">
-  <img src="banner.svg?v=2" width="100%" alt="Milkah Michira animated banner"/>
-</picture>
+<img src="banner.svg" width="100%" alt="Milkah Michira banner"/>
 
 # Milkah Michira
 
